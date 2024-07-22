@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="left">Ei 👋 E aí?<br>Hey 👋 What's up?</h1>
 
-<!--
-**VitorLucas007/VitorLucas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Vitor Lucas e sou Teresina Piauí, do Brasil. <br>My name is Vitor Lucas and I'm Teresina Piauí, from Brazil.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim<br>About me</h2>
+
+###
+
+<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estou aprendendo Dart e Flutter<br>🎯 Metas: Trabalhar na área de desenvolvimento de software mobile<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning Dart and Flutter<br>🎯 Goals: Work in the area of ​​mobile software development</p>
+
+###
+
+<h2 align="left">Eu codifico com<br>I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+</div>
+
+###
