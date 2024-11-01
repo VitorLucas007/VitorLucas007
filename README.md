@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estou aprendendo Dart e Flutter<br>🎯 Metas: Trabalhar na área de desenvolvimento de software mobile<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning Dart and Flutter<br>🎯 Goals: Work in the area of ​​mobile software development</p>
+<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estou aprendendo Dart e Flutter<br>🎯 Metas: Trabalhar na área de desenvolvimento de software mobile<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning Dart and Flutter<br>🎯 Goals: Work in the area of ​​mobile software development</p>
 
 ###
 
