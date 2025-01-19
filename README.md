@@ -1,20 +1,20 @@
-<h1 align="left">Ei 👋 E aí?<br>Hey 👋 What's up?</h1>
+<h1 align="left">👋 Olá</h1>
 
 ###
 
-<p align="left">Meu nome é Vitor Lucas e sou Teresina Piauí, do Brasil. <br>My name is Vitor Lucas and I'm Teresina Piauí, from Brazil.</p>
+<p align="left">Me chamo Vitor Lucas, Atualmente estudante de Sistemas para Internet na Universidade Estadual do Piauí (UESPI).</p>
 
 ###
 
-<h2 align="left">Sobre mim<br>About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estou aprendendo Dart e Flutter<br>🎯 Metas: Trabalhar na área de desenvolvimento de software mobile<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning Dart and Flutter<br>🎯 Goals: Work in the area of ​​mobile software development</p>
+<p align="left">📱 Estou desenvolvendo projetos com foco em aplicativos mobile.<br><br>🌱 Desenvolvimento Mobile: Flutter, Dart<br><br>🚀 Curiosidade: Estou sempre em busca de aprender algo novo.</p>
 
 ###
 
-<h2 align="left">Eu codifico com<br>I code with</h2>
+<h2 align="left">Linguagens, frameworks e ferramentas que utilizo</h2>
 
 ###
 
@@ -22,6 +22,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h2 align="left">Minhas Redes Sociais</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/_vitor_lucas_00?igsh=ajFna21lZHFweTM3" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
