@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📱 Estou desenvolvendo projetos com foco em aplicativos mobile.<br><br>🌱 Desenvolvimento Mobile: Flutter, Dart<br><br>🚀 Curiosidade: Estou sempre em busca de aprender algo novo.</p>
+<p align="left">📱 Desenvolvo projetos com foco em aplicativos mobile.<br><br>🌱 Desenvolvimento Mobile: Flutter, Dart<br><br>🚀 Curiosidade: Estou sempre em busca de aprender algo novo.</p>
 
 ###
 
