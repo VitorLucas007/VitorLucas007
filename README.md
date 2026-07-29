@@ -1,46 +1,66 @@
-<h2 align="left">Olá 👋</h2>
+# Olá, eu sou Vitor Lucas 👋
 
-###
+📱 **Desenvolvedor Mobile & Web** | 🎓 **Sistemas para Internet (UESPI)**
 
-<p align="left">Meu nome é Vitor sou Desenvolvedor Mobile & Web | Flutter | PHP <br>Desenvolvimento de soluções inovadoras. Atualmente curso Tecnologia em Sistemas para Internet  na Universidade Estadual do Piauí e atuo tanto na criação de aplicativos móveis com Flutter quanto no desenvolvimento web utilizando PHP.</p>
+> 🎯 **Buscando Oportunidades de Estágio** em Desenvolvimento Mobile, Web ou Engenharia de Software!
 
-###
+---
 
-<p align="left"></p>
+### 📬 Conecte-se comigo:
 
-###
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
 
-<h2 align="left">Minhas Skills</h2>
+---
 
-###
+### 🚀 Sobre Mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+- 🎓 **Formação:** Técnico em Informática pelo **IFPI** e acadêmico de **Sistemas para Internet** na **UESPI**.
+- 💡 **Foco:** Engenharia de Software, Arquitetura de Aplicações Mobile e Desenvolvimento Web.
+- 🗄️ **Banco de Dados:** Modelagem relacional (**MariaDB**, **SQL**, HeidiSQL) e integração com o ecossistema **Supabase**.
+- 🎨 **Design:** Prototipagem e UX/UI no **Figma**.
+- 🎯 **Objetivo:** Aplicar meus conhecimentos em um **estágio** desafiador, contribuindo com código limpo e soluções eficientes.
+
+---
+
+### ⚡ No que estou trabalhando / estudando atualmente:
+
+- 📱 **Flutter & Dart:** Aprofundamento em arquitetura, gerenciamento de estado e desenvolvimento de interfaces de usuário (UI) modernas e responsivas.
+- 🌐 **PHP & MariaDB:** Construção de APIs seguindo o padrão **RESTful** integradas a bancos de dados relacionais.
+- 🎨 **Figma:** Sempre buscando me atualizar sobre as principais tendências e padrões de design (UI/UX).
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+#### 💻 Ferramentas de Desenvolvimento
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B5C?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🎨 Design & UI/UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI/UX-Design-FF69B4?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
+---
+
+### 📌 Projetos em Destaque 🚧 (Em Desenvolvimento)
+
+| Projeto | Descrição | Status | Tecnologias |
+| :--- | :--- | :---: | :--- |
+| 📱 **[Nome do Projeto 1](https://github.com/VitorLucas007/nome-do-repo)** | Aplicativo mobile para gerenciamento de... | 🛠️ *Em Dev* | `Flutter` `Dart` `Supabase` |
+| 🌐 **[Nome do Projeto 2](https://github.com/VitorLucas007/nome-do-repo)** | Sistema web para controle de... | 🛠️ *Em Dev* | `PHP` `Bootstrap` `MariaDB` |
+
+---
+
+<div align="center">
+  <i>"O que sabemos é uma gota, já o que não sabemos é um oceano."</i>
 </div>
-
-###
-
-<h2 align="left">Aonde você pode me achar</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/_vitor_lucas_00/?igsh=ajFna21lZHFweTM3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="lucasyj64@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vitor-lopes-1a0a212a9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
