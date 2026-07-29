@@ -56,9 +56,9 @@
 
 | Projeto | Descrição | Status | Tecnologias |
 | :--- | :--- | :---: | :--- |
-| 📱 **[Nome do Projeto 1](https://github.com/VitorLucas007/nome-do-repo)** | Aplicativo mobile para gerenciamento de... | 🛠️ *Em Dev* | `Flutter` `Dart` `Supabase` |
-| 🌐 **[Nome do Projeto 2](https://github.com/VitorLucas007/nome-do-repo)** | Sistema web para controle de... | 🛠️ *Em Dev* | `PHP` `Bootstrap` `MariaDB` |
-
+| 📱 **[App Flutter & API PHP](https://github.com/VitorLucas007/seu-repo-1)** | App mobile reativo consumindo API RESTful própria em PHP para gestão de dados. | 🛠️ *Em Dev* | `Flutter` `MobX` `PHP` `MariaDB` |
+| 🌐 **[Sistema de Estoque Web](https://github.com/VitorLucas007/seu-repo-2)** | Plataforma web responsiva em arquitetura MVC para gerenciamento completo de inventário. | 🛠️ *Em Dev* | `PHP` `MVC` `Bootstrap` `MariaDB` |
+| 🗺️ **[Travel Journal App](https://github.com/VitorLucas007/seu-repo-3)** | Diário de viagens com mapas interativos, fotos, localização e sincronização em tempo real. | 🛠️ *Em Dev* | `Flutter` `Supabase` `Firebase` `OpenStreetMap` |
 ---
 
 <div align="center">
