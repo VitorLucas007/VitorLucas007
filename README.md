@@ -25,9 +25,9 @@
 
 ### ⚡ No que estou trabalhando / estudando atualmente:
 
-- 📱 **Flutter & Dart:** Aprofundamento em arquitetura, gerenciamento de estado e desenvolvimento de interfaces de usuário (UI) modernas e responsivas.
-- 🌐 **PHP & MariaDB:** Construção de APIs seguindo o padrão **RESTful** integradas a bancos de dados relacionais.
-- 🎨 **Figma:** Sempre buscando me atualizar sobre as principais tendências e padrões de design (UI/UX).
+- 📱 **Flutter & MobX:** Aprofundamento em gerenciamento de estado reativo, consumo de APIs e construção de interfaces nativas.
+- 🌐 **PHP & MariaDB:** Construção de APIs RESTful estruturadas em MVC com autenticação de usuários e segurança via PDO.
+- 🎨 **Figma:** Prototipagem de telas com foco na experiência do usuário (UI/UX).
 
 ---
 
@@ -36,6 +36,7 @@
 #### 💻 Ferramentas de Desenvolvimento
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9900?style=for-the-badge&logo=mobx&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,13 +53,15 @@
 
 ---
 
-### 📌 Projetos em Destaque 🚧 (Em Desenvolvimento)
+### 📌 Projetos em Destaque
 
 | Projeto | Descrição | Status | Tecnologias |
 | :--- | :--- | :---: | :--- |
-| 📱 **[App Flutter & API PHP](https://github.com/VitorLucas007/seu-repo-1)** | App mobile reativo consumindo API RESTful própria em PHP para gestão de dados. | 🛠️ *Em Dev* | `Flutter` `MobX` `PHP` `MariaDB` |
-| 🌐 **[Sistema de Estoque Web](https://github.com/VitorLucas007/seu-repo-2)** | Plataforma web responsiva em arquitetura MVC para gerenciamento completo de inventário. | 🛠️ *Em Dev* | `PHP` `MVC` `Bootstrap` `MariaDB` |
-| 🗺️ **[Travel Journal App](https://github.com/VitorLucas007/seu-repo-3)** | Diário de viagens com mapas interativos, fotos, localização e sincronização em tempo real. | 🛠️ *Em Dev* | `Flutter` `Supabase` `Firebase` `OpenStreetMap` |
+| 📱 **[Task Manager App]([https://github.com/VitorLucas007/app-flutter-tasks](https://github.com/VitorLucas007/task_app))** | App mobile reativo de gestão de tarefas com autenticação de usuário e navegação via Drawer. | ✅ *Concluído* | `Flutter` `MobX` `HTTP` |
+| 🐘 **[Task Manager API]([https://github.com/VitorLucas007/api-php-tasks](https://github.com/VitorLucas007/api_tasks))** | API RESTful desacoplada com padrão MVC, PDO com Prepared Statements e suporte a CORS. | ✅ *Concluído* | `PHP 8` `MariaDB` `PDO` `MVC` |
+| 🌐 **[Sistema de Estoque Web](https://github.com/VitorLucas007/seu-repo-2)** | Plataforma web responsiva para gerenciamento completo de inventário e produtos. | 🛠️ *Em Dev* | `PHP` `MVC` `Bootstrap` `MariaDB` |
+| 🗺️ **[Travel Journal App](https://github.com/VitorLucas007/seu-repo-3)** | Diário de viagens com mapas interativos, localização e sincronização em tempo real. | 🛠️ *Em Dev* | `Flutter` `Supabase` `Firebase` |
+
 ---
 
 <div align="center">
