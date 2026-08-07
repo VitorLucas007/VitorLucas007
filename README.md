@@ -57,7 +57,7 @@
 
 | Projeto | Descrição | Status | Tecnologias |
 | :--- | :--- | :---: | :--- |
-| 📱 **[Task Manager App](https://github.com/VitorLucas007/tasks_app)** | App mobile reativo de gestão de tarefas com autenticação de usuário e navegação via Drawer. | ✅ *Concluído* | `Flutter` `MobX` `HTTP` |
+| 📱 **[Task Manager App](https://github.com/VitorLucas007/task_app)** | App mobile reativo de gestão de tarefas com autenticação de usuário e navegação via Drawer. | ✅ *Concluído* | `Flutter` `MobX` `HTTP` |
 | 🐘 **[Task Manager API](https://github.com/VitorLucas007/api_tasks)** | API RESTful desacoplada com padrão MVC, PDO com Prepared Statements e suporte a CORS. | ✅ *Concluído* | `PHP 8` `MariaDB` `PDO` `MVC` |
 | 🌐 **[Sistema de Estoque Web](https://github.com/VitorLucas007/seu-repo-2)** | Plataforma web responsiva para gerenciamento completo de inventário e produtos. | 🛠️ *Em Dev* | `PHP` `MVC` `Bootstrap` `MariaDB` |
 | 🗺️ **[Travel Journal App](https://github.com/VitorLucas007/seu-repo-3)** | Diário de viagens com mapas interativos, localização e sincronização em tempo real. | 🛠️ *Em Dev* | `Flutter` `Supabase` `Firebase` |
